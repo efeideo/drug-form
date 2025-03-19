@@ -1,7 +1,5 @@
 import streamlit as st
 from datetime import datetime
-import psycopg2
-from psycopg2 import sql
 import os
 from dotenv import load_dotenv
 from send_email import send_email
