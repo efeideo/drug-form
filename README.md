@@ -10,4 +10,4 @@ pinned: false
 short_description: form
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out the link for Streamlit Cloud Demo: https://ideogen-form.streamlit.app
